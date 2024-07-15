@@ -1,1 +1,1 @@
-# DB2
+# DB2 Hackerrank
